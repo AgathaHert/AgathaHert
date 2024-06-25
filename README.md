@@ -2,7 +2,7 @@
 
 Eu sou Ágatha Hertel, uma desenvolvedora Full Stack apaixonada por tecnologia e inovação, formada pelo Dev Club.
 
-### Sobre mim:
+### Sobre:
 - Front-end: Criação de interfaces dinâmicas e responsivas com HTML, CSS, JavaScript e React.
 - Back-end: Desenvolvimento de APIs RESTful robustas e eficientes com Node.js e TypeScript.
 - Experiência: Participação em diversos projetos práticos, aplicando conhecimentos teóricos e expandindo experiência real no desenvolvimento web.
