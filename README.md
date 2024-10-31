@@ -37,10 +37,6 @@ Sou uma Desenvolvedora Front-End apaixonada por transformar conceitos em realida
 - 🤝 Comprometimento com prazos e qualidade
 - 💡 Busca constante por inovação
 
-## Projetos em Destaque 🚀
-
-Em breve compartilharei aqui alguns dos meus projetos mais interessantes!
-
 ## Vamos nos conectar? 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ágatha-hertel)
@@ -50,7 +46,9 @@ Em breve compartilharei aqui alguns dos meus projetos mais interessantes!
 ---
 
 <div align="center">
-  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AgathaHert&show_icons=true&theme=dracula)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaHert&layout=compact&theme=dracula)
 
 </div>
