@@ -47,8 +47,6 @@ Sou uma Desenvolvedora Front-End apaixonada por transformar conceitos em realida
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AgathaHert&show_icons=true&theme=dracula)
-
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaHert&layout=compact&theme=dracula)
 
 </div>
